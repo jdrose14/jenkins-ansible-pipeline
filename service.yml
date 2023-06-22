@@ -14,3 +14,4 @@ spec:
       # Port accessible outside cluster
       nodePort: 30000
   type: NodePort
+
