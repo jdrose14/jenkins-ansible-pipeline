@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: kubemubin/devops-project-one
+          image: jdrose14/jenkins-pipeline1
           ports:
             - containerPort: 80
             
